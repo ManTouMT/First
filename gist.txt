@@ -1,0 +1,5 @@
+git diff 和git diff --cached 的区别
+git diff 比较工作区（Working directory）和暂存区（Stage)的区别
+git diff --cached 比较的是暂存区（Stage）和仓库（HEAD）的区别
+实验验证是正解.                 2019.3.9  22:09
+
